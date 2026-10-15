@@ -1,0 +1,13 @@
+gradio
+llama-index-core
+llama-index-llms-groq
+llama-index-embeddings-huggingface
+llama-index-readers-file
+sentence-transformers
+huggingface_hub
+pandas
+requests
+pillow
+python-dotenv
+numpy
+groq
